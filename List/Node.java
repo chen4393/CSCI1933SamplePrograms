@@ -1,5 +1,5 @@
 // Node.java
-// Linked List Node First Attempt 
+// Linked List Node First Attempt
 
 // A starting point for a Node class
 // What methods should be part of a Node class and what methods would 
